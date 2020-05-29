@@ -2,7 +2,7 @@
 Demonstration of automated searching a neural network architecture for cost-efficient seismic data classification (e.g. gas hydrates reflections).
 
 
-##*** System requirements ***
+## *** System requirements ***
 
 * Python 3.7.4.1
 * Tensorflow-gpu 1.14
@@ -10,7 +10,7 @@ Demonstration of automated searching a neural network architecture for cost-effi
 * Nvidia cuDNN v7.5.0 (Feb 21, 2019), for CUDA 10.0
 
 
-##*** Instructions for use ***
+## *** Instructions for use ***
 
 Functional programming scripts.
 
