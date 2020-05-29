@@ -17,7 +17,7 @@ Functional programming scripts.
 
 1. Run "1. synthetic_patch_models.py" to generate synthetic data as much as possible (e.g. more than 15000 samples) for architecture searching.
 
-> It is strongly recommended to run the script step by step. For example, comment:
+> It is strongly recommended to run the script step by step. For example, comment code block of:
 
 >> "Step 2:  summarize statistics of architectures' performance"
 
