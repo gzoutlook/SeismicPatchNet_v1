@@ -1,8 +1,6 @@
 
 '''
-https://github.com/da-steve101/googlenet/blob/master/googlenet_model.py
-
-G Modified tf.__version__:'1.13.0-rc2'
+Functions used to build, record and restore tensorflow graphs dynamicly during architecture searching.
 '''
 
 import tensorflow as tf
