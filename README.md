@@ -19,11 +19,11 @@ Functional programming scripts.
 
 > It is strongly recommended to run the script step by step. For example, comment:
 
-"Step 2:  summarize statistics of architectures' performance"
+> "Step 2:  summarize statistics of architectures' performance"
 
-before run:
+> before run:
 
-"Step 1:  scan and delete/remove failed/incomplete jobs/model folder"
+> "Step 1:  scan and delete/remove failed/incomplete jobs/model folder"
 
 
 2. Run "2. random_search_SeismicPatchNet_v1p2.py" to start searching, which can be deployed on multiple GPUs by replications
