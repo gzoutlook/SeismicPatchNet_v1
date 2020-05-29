@@ -1,7 +1,11 @@
 
-'''
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Sep 25 15:46:21 2019  @author: Geng
+
 Functions used to build, record and restore tensorflow graphs dynamicly during architecture searching.
-'''
+
+"""
 
 import tensorflow as tf
 import tensorflow.contrib.layers as layers
