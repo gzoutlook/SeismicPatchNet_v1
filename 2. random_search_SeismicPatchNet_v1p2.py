@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 25 15:46:21 2019  @author: g.z@outlook.com
+Created on Wed Sep 25 15:46:21 2019  @author: Geng
 
 Random search SeismicPatchNet_topology series
 
