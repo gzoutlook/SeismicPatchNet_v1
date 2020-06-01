@@ -12,7 +12,7 @@ Demonstration of automated searching a neural network architecture for cost-effi
 
 ## *** Instructions for use ***
 
-Functional programming scripts.
+Functional programming scripts. 😃
 
 
 1. Run "1. synthetic_patch_models.py" to generate synthetic data as much as possible (e.g. more than 20,000 samples) for architecture searching.
