@@ -5,7 +5,10 @@ Created on Wed Sep 25 15:46:21 2019  @author: Geng
 Random search SeismicPatchNet_topology series
 
 Note:
-    searching results are saved under predifined train_data_path
+    Searching results are saved under predifined train_data_path
+    
+Caution:
+    The naive form of early stop here is not robust enough but works for the demonstration here.
 
 """
 
