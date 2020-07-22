@@ -35,6 +35,7 @@ Functional programming scripts. 😃
 More details were presented in our article (https://doi.org/10.1038/s41467-020-17123-6).
 
 ## *** Some other suggestions ***
-> Always pay attention to quality control for training, depending on hardwares, libraries, and settings.
-> Plot training processes of trained models, making sure that the training is reliable/reasonable.
-> As the size of SeismicPatchNet_v1 is very small, all trainable parameters matters, the training curve might be volatile. Fine-tuned regularization would stabilize the training curve significantly, resulting in a much smoother process.
+
+* Always pay attention to quality control for training, depending on hardwares, libraries, and settings.
+* Plot training processes of trained models, making sure that the training is reliable/reasonable.
+* As the size of SeismicPatchNet_v1 is very small, all trainable parameters matters, the training curve might be volatile. Fine-tuned regularization would stabilize the training curve significantly, resulting in a much smoother process.
