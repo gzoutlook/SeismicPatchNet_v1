@@ -1,6 +1,6 @@
 # SeismicPatchNet_v1
 Demonstration of automated searching of a neural network architecture for cost-efficient seismic data classification (e.g. gas hydrates reflections). (Sep. 2019)
-
+Ref: https://doi.org/10.1038/s41467-020-17123-6
 
 ## *** System requirements ***
 
