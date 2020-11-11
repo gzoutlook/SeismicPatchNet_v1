@@ -36,7 +36,8 @@ Functional programming scripts. 😃
 
 More details were presented in our article (https://doi.org/10.1038/s41467-020-17123-6).
 
-## *** Some other suggestions ***
+
+Some other suggestions:
 
 * Always pay attention to quality control for training, depending on hardwares, libraries, and settings.
 * Plot training processes of trained models, making sure that the training is reliable/reasonable.
