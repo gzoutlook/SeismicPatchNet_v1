@@ -4,6 +4,8 @@ Ref: https://doi.org/10.1038/s41467-020-17123-6
 
 2. A basic implementation of SPN_v1 using TensorFlow v2.3.1 and a corrpesonding graph visualization.
 
+3. Results reproducibility using an edge computing platform: Raspberry Pi 4 Model B (4GB RAM)
+
 ## *** System requirements ***
 
 * Python 3.7.4.1
@@ -45,6 +47,7 @@ Some other suggestions:
 
 
 ## *** Results reproducibility  ***
+
 Edge computing platform: Raspberry Pi 4 Model B (4GB RAM)
 
 OS: Raspberry Pi OS (August 2020)
