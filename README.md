@@ -16,7 +16,7 @@ Ref: https://doi.org/10.1038/s41467-020-17123-6
 
 ## *** Instructions for use ***
 
-Functional programming scripts. 😃
+Functional programming scripts for automated searching.
 
 
 1. Run "1. synthetic_patch_models.py" to generate synthetic data as much as possible (e.g. more than 20,000 samples) for architecture searching.
@@ -46,7 +46,7 @@ Some other suggestions:
 * As the size of SeismicPatchNet_v1 is very small, all trainable parameters matter, the training curve might be volatile. Fine-tuned regularization would stabilize the training process.
 
 
-## *** Results reproducibility  ***
+## *** Results reproducibility for inference  ***
 
 Edge computing platform: Raspberry Pi 4 Model B (4GB RAM)
 
