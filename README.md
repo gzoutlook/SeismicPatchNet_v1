@@ -42,3 +42,12 @@ Some other suggestions:
 * Always pay attention to quality control for training, depending on hardwares, libraries, and settings.
 * Plot training processes of trained models, making sure that the training is reliable/reasonable.
 * As the size of SeismicPatchNet_v1 is very small, all trainable parameters matter, the training curve might be volatile. Fine-tuned regularization would stabilize the training process.
+
+
+## *** Results reproducibility  ***
+Edge computing platform: Raspberry Pi 4 Model B (4GB RAM)
+OS: Raspberry Pi OS (August 2020)
+* Framework: Tensorflow v2.3.0
+* Model: trained without tuning (Nvidia GPU), deployed without pruning (Rasberry Pi 4B)
+Results for Blake Ridge Line 88 (article: https://doi.org/10.1038/s41467-020-17123-6), using a more coarse grid (lower resolution):
+![image](https://github.com/gzoutlook/SeismicPatchNet_v1/images/Raspberry Pi 4B inference.jpg)
