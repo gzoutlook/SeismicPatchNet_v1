@@ -149,7 +149,7 @@ def plot_images(num_image, patches_tensor, labels_tensor, labels_note=None, data
     imshow_labels = labels_tensor[mask,:]
     
     # color table
-    cmapFile = "D:\My tools\ColorTable\Jason Used\Red_white_dkblue.rgb"
+    cmapFile = ".\libs\Red_white_dkblue.rgb"
     num_of_img = num_image
     if num_of_img <=8:
         Shape = [1, 8]
