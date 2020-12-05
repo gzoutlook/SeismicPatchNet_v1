@@ -1,5 +1,5 @@
 # SeismicPatchNet_v1
-# A Practice of Tiny Machine Learning for Earth Science
+## A Practice of Tiny Machine Learning for Earth Science
 
 1. Demonstration of automated searching of a neural network architecture for cost-efficient seismic data classification (e.g. gas hydrates reflections). (Sep. 2019, ref article: https://doi.org/10.1038/s41467-020-17123-6)
 
