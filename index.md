@@ -14,4 +14,4 @@ OS: Raspberry Pi OS (August 2020)
 
 Results for predicting natural gas hydrates indicators on Blake Ridge Line 88 (see Figure 6s in [the article](https://doi.org/10.1038/s41467-020-17123-6)), using a more coarse grid (lower resolution):
 
-[id]: https://github.com/gzoutlook/SeismicPatchNet_v1/blob/master/Raspberry%20Pi%204%20inference.png
+<img src="https://gzoutlook.github.io/SeismicPatchNet_v1/Raspberry Pi 4 inference.png" style="display: block; margin: auto;" />
