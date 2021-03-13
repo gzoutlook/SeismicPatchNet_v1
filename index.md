@@ -1,6 +1,9 @@
 ## A highly efficient and resource-saving CNN architecture (SeismicPatchNet) for identifying indicators of marine gas-hydrate resources.
 
-[Automated design of a convolutional neural network with multi-scale filters for cost-efficient seismic data classification.](https://www.nature.com/articles/s41467-020-17123-6))
+Publication:
+
+Geng, Z., Wang, Y. Automated design of a convolutional neural network with multi-scale filters for cost-efficient seismic data classification. Nat Commun 11, 3311 (2020). [https://doi.org/10.1038/s41467-020-17123-6](https://www.nature.com/articles/s41467-020-17123-6)
+
 
 Edge computing platform: Raspberry Pi 4 Model B (4GB RAM)
 
