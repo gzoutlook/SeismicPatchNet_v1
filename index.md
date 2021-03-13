@@ -1,7 +1,7 @@
 ## A Practice of Tiny Machine Learning for Earth Science
 
 
-(Sep. 2019, ref article: [https://doi.org/10.1038/s41467-020-17123-6](https://doi.org/10.1038/s41467-020-17123-6)
+(Sep. 2019, ref article: [https://doi.org/10.1038/s41467-020-17123-6](https://www.nature.com/articles/s41467-020-17123-6))
 
 Automated design of a convolutional neural network with multi-scale filters for cost-efficient seismic data classification.
 
