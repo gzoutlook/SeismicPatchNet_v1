@@ -259,6 +259,8 @@ def generate_samples(num_samples, patch_height, samples_category, tag_type_list,
     import time
     import pickle
     print("\nSaving samples ...")
+    if not os.path.exists(samples_save_dir):
+        os.makedirs(samples_save_dir) 
     pickle.dump((patches_tensor, labels_tensor, label_note_list), open(os.path.join(samples_save_dir, "Patches_samples _n{}s{} {} {}.sp".format(num_samples, patch_height, time.strftime("%Y%m%d%H%M"), samples_category)), 'wb'), protocol=4)  # save samples
     # note for samples
     note_file = os.path.join(samples_save_dir, "Note for samples _n{}s{} {}, {}.txt".format(num_samples, patch_height, time.strftime("%Y%m%d%H%M"), samples_category))
